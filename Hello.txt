@@ -1,0 +1,8 @@
+
+C:\Users\hbhar\Desktop\Class_things\sem 7\Computer Networks\Project 1>py client.py -s 34.125.20.170 -p 22 -l Hello
+Command Line Arguments - IP:  34.125.20.170 Port:  22 Logfile:  Hello
+Successfully Connected. IP:  34.125.20.170 Port:  22
+Enter a Message to send to the Server: network
+Sending message to Server:  network
+Message recieved from server
+ SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.7
